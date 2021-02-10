@@ -1,6 +1,4 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 # BERT-for-classifying-toxicity
 
@@ -10,9 +8,3 @@ If these toxic contributions can be identified, we could have a safer, more coll
 
 
 <img width="1241" alt="xenophobia" src="https://user-images.githubusercontent.com/57819870/91748497-b1b5c180-ebdd-11ea-88bf-01b1b99e4863.png">
-
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
